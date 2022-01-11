@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.todo-list {
+    list-style: none;
+    border-radius: 2px;
+}
+
+.todo-list li {
+    width: 250px;
+    background: ghostwhite;
+    border: 20px solid ghostwhite;
+    border-radius: 30px;
+    margin-top: 10px;
+    box-shadow: 0px 2px 0px #6c6c6c;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+body {
+    background: skyblue;
+}
+
+.wrapper {
+    width: 293px;
+    margin: auto;
+}
+
+.title {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+.button {
+    display: flex;
+    margin: auto;
+    width: 30px;
+    height: 30px;    
+    border-radius: 50px;
+    background: blue;
+    font-size: 20px;
+    color: white;
+    border: white;
+    justify-content: center;
+    align-items: center;
+}
+
+form input{
+    width: 265px;
+    height: 30px;
+    border: 7px solid ghostwhite;
+    border-radius: 30px;
+    background: white;
+    margin-bottom: 30px;
+    font-size: 15px;
+    padding: 7px 7px;
+}
+.delete-button{
+    width: 25px;
+    height: 25px;
+    border-radius: 25px;
+    color: white;
+    background: orangered;
+    border-style: none
+}
+.edit-button{
+    width: 28px;
+    height: 28px;
+    border-radius: 28px;
+    color: white;
+    background: orange;
+    border-style: none
+}
