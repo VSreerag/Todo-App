@@ -11,17 +11,17 @@ function App() {
     })
     const [todos, setTodos] = useState([{
         id: "1",
-        taskName: "Exam",
+        taskName: "Exam changes",
         isFinished: true
     },
     {
         id: "2",
-        taskName: "Study",
+        taskName: "Study well",
         isFinished: false
     },
     {
         id: "3",
-        taskName: "Play",
+        taskName: "Play football",
         isFinished: true
     },
     {
