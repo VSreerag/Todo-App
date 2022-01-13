@@ -16,12 +16,12 @@ function App() {
     },
     {
         id: "2",
-        taskName: "Study well",
+        taskName: "Study well to pass",
         isFinished: false
     },
     {
         id: "34",
-        taskName: "Play football",
+        taskName: "Play football well",
         isFinished: true
     },
     {
