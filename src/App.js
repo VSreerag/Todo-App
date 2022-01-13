@@ -20,7 +20,7 @@ function App() {
         isFinished: false
     },
     {
-        id: "3",
+        id: "34",
         taskName: "Play football",
         isFinished: true
     },
