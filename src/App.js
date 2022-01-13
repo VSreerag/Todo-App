@@ -31,7 +31,7 @@ function App() {
     },
     {
         id: "5",
-        taskName: "Eating",
+        taskName: "Eating biriyani",
         isFinished: true
     },
     ])
